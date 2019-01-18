@@ -1,3 +1,3 @@
 # MARN
 Code for Multi-attention Recurrent Network - AAAI 2018
-Will be released as part of CMU-Multimodal Data SDK
+Due to theano being deprecated, the memory fusion module is now implemented in pytorch and released as part of CMU-Multimodal SDK https://github.com/A2Zadeh/CMU-MultimodalSDK/. 
